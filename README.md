@@ -32,4 +32,3 @@ Feel free to contribute to this project by suggesting enhancements, reporting is
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Customize the placeholders with the actual links and details specific to your project!
